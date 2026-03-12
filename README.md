@@ -1,4 +1,4 @@
-#Country Comparison App
+# Country Comparison App
 
 This is a web application that utilises the TradingEconomics API to compare different indicators of two countries.
 Includes a time series plot and table.
